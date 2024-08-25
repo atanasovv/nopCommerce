@@ -1,0 +1,11 @@
+{
+  "Group": "Payment methods",
+  "FriendlyName": "Coaching Home",
+  "SystemName": "Coaching.Home",
+  "Version": "1.0.0",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "Vladislav Atanasov",
+  "DisplayOrder": -1,
+  "FileName": "Nop.Plugin.Payments.PayPalCommerce.dll",
+  "Description": ""
+}
